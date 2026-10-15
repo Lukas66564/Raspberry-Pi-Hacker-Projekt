@@ -20,6 +20,6 @@ Der externe WLAN-Adapter bot mir weitere Möglichkeiten für WLAN-Analysen. Er u
 
 Das Projekt war ein früher Versuch, verschiedene Hardware-Komponenten zu einem tragbaren Cybersecurity-Gerät zu kombinieren. Dabei konnte ich mit Kali Linux, zusätzlicher WLAN-Hardware und dem Aufbau eines eigenen Geräts experimentieren.
 
-Das Gerät existiert heute nicht mehr. Die vorhandenen Bilder zeigen deshalb nur einen frühen Prototypen und nicht den später erweiterten Endzustand.
+Das Gerät existiert heute nicht mehr. Das vorhandene Bild zeigen deshalb nur einen frühen Prototypen und nicht den später erweiterten Endzustand.
 
 ![](picture.jpg)
